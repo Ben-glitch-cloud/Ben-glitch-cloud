@@ -1,3 +1,3 @@
-## This will soon be my CV 
+## This will soon be my CV 📖
 
 
