@@ -31,6 +31,8 @@
  
  ## status   
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ben-glitch-cloud&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Ben-glitch-cloud&show_icons=true&theme=tokyonight"> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-glitch-cloud&langs_count=5&theme=tokyonight"> 
 
  ## Contant
