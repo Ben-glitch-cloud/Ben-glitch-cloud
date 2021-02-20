@@ -8,7 +8,7 @@
 
 ## Language  
 
-* Ruby  
+* Ruby 
 * Javescript 
 * React 
 * React Native 
