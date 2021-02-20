@@ -18,6 +18,6 @@
 
 ## status   
 
-https://github-readme-stats.vercel.app/api?username=Ben-glitch-cloud
- 
+<img src="https://github-readme-stats.vercel.app/api?username=Ben-glitch-cloud">
+
  ## Contant
