@@ -1,9 +1,7 @@
 # Personal Profile 📖 
 
 
-
-## Studed 
-
+A bit about me
 
 
 ## Language   
