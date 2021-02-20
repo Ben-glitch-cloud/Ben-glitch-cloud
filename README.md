@@ -5,7 +5,7 @@
 <br />
 <br /> 
 
-## Language    
+## Language 🖊    
 
 <br />
 <br />
@@ -20,7 +20,7 @@
 <br />
 <br />
 
-## Model–View–Controller (MVC) Framework 
+## Model–View–Controller (MVC) Framework 🏢
 <br /> 
 <br />
 
@@ -29,10 +29,12 @@
 <br /> 
 <br />
  
- ## status   
+ ## status 📈
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ben-glitch-cloud&show_icons=true&theme=tokyonight"> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-glitch-cloud&langs_count=5&theme=tokyonight"> 
 
- ## Contant
+ ## Contant 
+ 
+ <p align="center">Soical media links are coming soon 🚧<p />
