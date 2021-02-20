@@ -17,7 +17,5 @@
 * SQL data bases  
 
 ## status 
-
-(https://github-readme-stats.vercel.app/apiBen-glitch-cloud=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  
  ## Contant
