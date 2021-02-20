@@ -1,7 +1,7 @@
 # Personal Profile 📖 
 
 
-A bit about me
+<p align="center">I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</ p> 
 
 
 ## Language   
