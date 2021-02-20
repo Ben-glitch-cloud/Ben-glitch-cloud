@@ -1,8 +1,15 @@
-## This will soon be my CV 📖
+# Personal Profile 📖 
 
-```
-Studying at Makers 
-Current code languages include Ruby, Javascripte 🖊
-Current code Hypertext languages include both html and css 📘 
-```
 
+
+## Language  
+
+* Ruby  
+* Javescript 
+* React 
+* React Native 
+* HTML 5 
+* CSS 3  
+* SQL data bases  
+
+## Contant
