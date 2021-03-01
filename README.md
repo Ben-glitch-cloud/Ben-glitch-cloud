@@ -20,6 +20,8 @@
 <br />
 <br />
 
+https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red
+ 
 ## Model–View–Controller (MVC) Framework 🏢
 <br /> 
 <br />
