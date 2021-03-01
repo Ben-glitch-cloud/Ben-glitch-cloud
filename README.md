@@ -30,4 +30,4 @@
 
  ## Contant 
  
- <p align="center">Soical media links are coming soon 🚧<p />
+ <p align="center"><img src="https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=lightred"> <img src="https://img.shields.io/badge/-LinedIn-black?logo=LinkedIn&logoColor=blue"></p>
