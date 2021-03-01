@@ -18,9 +18,8 @@
 <br /> 
 <br />
 
-<img src="https://user-images.githubusercontent.com/71974361/108602674-2272b500-739b-11eb-9f25-dce7ed760614.jpg" width="200" hight="200"> | <img src="https://user-images.githubusercontent.com/71974361/108602672-20a8f180-739b-11eb-93e4-9cec42820ccc.png" width="200" hight="200"> 
-
-<br /> 
+<img src="https://img.shields.io/badge/-Node-black?logo=Node.js&logoColor=lightgreen"> <img src="https://img.shields.io/badge/-Ruby on Rails-black?logo=Ruby on Rails&logoColor=red"> 
+ <br /> 
 <br />
  
  ## status 📈
