@@ -11,6 +11,5 @@
 
  <h2 align="center"> Contant </h2> 
  
- 
- 
+<p align="center"><a href="https://www.linkedin.com/in/benedictlawrence/"><img src="https://user-images.githubusercontent.com/71974361/109997928-a2d4d680-7d08-11eb-982c-15ca09a5776d.png" width=100px></p>
 
