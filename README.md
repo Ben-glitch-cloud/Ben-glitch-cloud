@@ -9,6 +9,8 @@
 
 <p align="center"><img width=61% src="https://github-readme-stats.vercel.app/api?username=Ben-glitch-cloud&show_icons=true&theme=tokyonight"> | <img width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-glitch-cloud&langs_count=5&theme=tokyonight"></p>
 
- ## Contant 
+ <h2 align="center"> Contant </h2> 
  
- <p align="center"><img src="https://img.shields.io/badge/-Instagram-black?logo=Instagram&logoColor=lightred"> <img src="https://img.shields.io/badge/-LinedIn-black?logo=LinkedIn&logoColor=blue"></p>
+ 
+ 
+
