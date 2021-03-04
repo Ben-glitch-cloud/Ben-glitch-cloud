@@ -4,7 +4,7 @@
 <p align="center">I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</ p> 
 <br />  
 <br />
-<h2 align="center", color="red"> <a href="https://github.com/Ben-glitch-cloud/CV"><img width=150px src="https://user-images.githubusercontent.com/71974361/110035229-4a66fe80-7d33-11eb-9e01-cf3506b89f24.jpg"></a></h2>
+<h2 align="center", color="red"> <a href="https://github.com/Ben-glitch-cloud/CV"><img width=150px src="https://user-images.githubusercontent.com/71974361/110035819-0a544b80-7d34-11eb-904a-2148ba8654d3.jpg"></a></h2>
 <br /> 
  
  <h2 align="center">Status</h2>
