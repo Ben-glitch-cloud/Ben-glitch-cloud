@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/71974361/110016201-ad00d000-7d1c-11eb-93e4-c970d5ab2472.jpg">
+<img src="https://user-images.githubusercontent.com/71974361/110016201-ad00d000-7d1c-11eb-93e4-c970d5ab2472.jpg"> 
+![text goes here](https://user-images.githubusercontent.com/.gif)
 <br />
 <br />
 <p align="center">I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</ p> 
