@@ -7,7 +7,14 @@
 <br />  
 <br />
 <h2 align="center"> <a href="https://github.com/Ben-glitch-cloud/CV"><img width=180px src="https://user-images.githubusercontent.com/71974361/110381620-a1314880-8051-11eb-92a7-4116771188c3.jpg"></a></h2>
-<br /> 
+<br />  
+
+<h2 align="center">Personal Projects</h2> 
+
+| Project | Description | Repo | Language and gems used | Date of Completion | 
+| :---: | :---: | :---: | :---: | :---: |
+| Simple Weather App | search for the weather in the UK | <a href="https://github.com/Ben-glitch-cloud/Simple-Weather-App">repo</a> | Ruby, RSpec, Openweather, sinatra, Capybara, JSON | 24/03/2021 | 
+</br>
  
  <h2 align="center">Status</h2>
 
