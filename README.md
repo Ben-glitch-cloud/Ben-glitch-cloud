@@ -13,8 +13,9 @@
 
 | Project | Description | Repo | Language and gems used | Date of Completion | 
 | :---: | :---: | :---: | :---: | :---: |
-| Weather App | search for the weather in the UK | <a href="https://github.com/Ben-glitch-cloud/Simple-Weather-App">repo</a> | Ruby, RSpec, Openweather, sinatra, Capybara, JSON | 24/03/2021 |  
-| Chitter App | Soical media app | <a href="https://github.com/Ben-glitch-cloud/Chitter_app">repo</a> | Ruby, Rspec, sinatra, Capybara, postgreSQL | 11/04/2021 |
+| Weather App | search for the weather in the UK | <a href="https://github.com/Ben-glitch-cloud/Simple-Weather-App">repo</a> | Ruby, RSpec, Openweather, sinatra, Capybara, JSON, HTML5, CSS3 | 24/03/2021 |  
+| Chitter App | Soical media app | <a href="https://github.com/Ben-glitch-cloud/Chitter_app">repo</a> | Ruby, Rspec, sinatra, Capybara, postgreSQL, HTML5, CSS3 | 11/04/2021 | 
+| Tip App | Tip calculator | <a href="https://github.com/Ben-glitch-cloud/Tip">repo</a> | Javascript, HTML5, CSS3 | 16/04/2021 |
 </br>
  
  <h2 align="center">Status</h2>
