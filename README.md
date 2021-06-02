@@ -17,7 +17,7 @@
 | Chitter App | Soical media app | <a href="https://github.com/Ben-glitch-cloud/Chitter_app">repo</a> | Ruby, Rspec, sinatra, Capybara, postgreSQL, HTML5, CSS3 | 11/04/2021 | 
 | Tip App | Tip calculator | <a href="https://github.com/Ben-glitch-cloud/Tip">repo</a> | Javascript, HTML5, CSS3 | 16/04/2021 |  
 | Dice Game | Roll the dice | <a href="https://github.com/Ben-glitch-cloud/Dice-Game">repo</a> | Javascript, HTML5, CSS3 | 22/04/2021 | 
-| Chitter App in Node Javscript | Soical media app | Nan | Node, Express, Express-session, ejs, CSS3, postgreSQL, Jest, Jasmine, sendgrid | Not yet ready |
+| Chitter App in Node Javscript | Soical media app |<a href="https://github.com/Ben-glitch-cloud/Chitter-App-JS/blob/main/README.md">repo</a> | Node, Express, Express-session, ejs, CSS3, postgreSQL, Jest, Jasmine, sendgrid | Not yet ready |
 </br>
  
  <h2 align="center">Status</h2>
