@@ -2,10 +2,14 @@
 ![welcome to my personal Profile](https://user-images.githubusercontent.com/71974361/110369629-93c09200-8042-11eb-8d48-6aa00a9bb75f.gif) 
 
 <br />
-<br />
-<p align="center">I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</ p> 
+<br /> 
+<h1>Ben Lawrence</h1> 
+<hr/>
+<p align="left">I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</ p>   
+<p>Goal: Working on becoming a full stack developer.</p>
+<p>Work: Personal website coming soon 🚧</p>
 <br />  
-<br />
+<br /> 
 <h2 align="center"> <a href="https://github.com/Ben-glitch-cloud/CV"><img width=180px src="https://user-images.githubusercontent.com/71974361/110381620-a1314880-8051-11eb-92a7-4116771188c3.jpg"></a></h2>
 <br />  
 
