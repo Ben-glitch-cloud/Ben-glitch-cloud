@@ -5,9 +5,9 @@
 <br /> 
 <h1>Ben Lawrence</h1> 
 <hr/>
-<p align="left">I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</ p>   
+<p align="left">A small bit about me: I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</ p>   
 <p>Goal: Working on becoming a full stack developer.</p>
-<p>Work: Personal website coming soon 🚧</p>
+<p>Work: Personal website coming soon 🚧</p> 
 <br />  
 <br /> 
 <h2 align="center"> <a href="https://github.com/Ben-glitch-cloud/CV"><img width=180px src="https://user-images.githubusercontent.com/71974361/110381620-a1314880-8051-11eb-92a7-4116771188c3.jpg"></a></h2>
