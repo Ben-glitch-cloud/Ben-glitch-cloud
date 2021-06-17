@@ -6,7 +6,7 @@
 <hr/>
 <h4>Hello im Benedict</h4>  
 <h4 align="left">A small bit about me: I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</h4>    
-<h4>Lauguages Working on: Javascript & Node.js</h4> 
+<h4>Lauguages Working in: Javascript & Node.js</h4> 
 <h4>Personal Webiste: https://ben-lawrence-personalsite.netlify.app/</h4>  
 <hr/>
 <br />  
