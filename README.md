@@ -20,7 +20,7 @@
 
 <p><b>Back End:</b> <img src="https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red"> <img src="https://img.shields.io/badge/-Node-black?logo=Node.js&logoColor=lightgreen"></p>
 
-<p><b>Data bases</b> <img src="https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&logoColor=PaleTurquoise">  <img src="https://img.shields.io/badge/-Firebase-black?logo=Firebase&logoColor=Gold">  <img src="https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&logoColor=darkgreen"> <img src="https://img.shields.io/badge/-Moncha-black?logo=Mocha&logoColor=lightbrown"> </p>
+<p><b>Data bases</b> <img src="https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&logoColor=PaleTurquoise">  <img src="https://img.shields.io/badge/-Firebase-black?logo=Firebase&logoColor=Gold">  <img src="https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&logoColor=darkgreen"> <img src="https://img.shields.io/badge/-Moncha-black?logo=Mocha&logoColor=lightbrown"> <img src="https://img.shields.io/badge/-SQLite-black?logo=SQLite&logoColor=lightgrey"> </p>
 
 <p><b>Testing</b> <img src="https://img.shields.io/badge/-Jasmine-black?logo=Jasmine&logoColor=purple"> <img src="https://img.shields.io/badge/-Jest-black?logo=Jest&logoColor=red"> </p>
 
