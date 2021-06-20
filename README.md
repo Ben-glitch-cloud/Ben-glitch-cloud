@@ -6,7 +6,7 @@
 <hr/>
 <h4>Hello im Benedict</h4>  
 <h4 align="left">A small bit about me: I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</h4>    
-<h4>Lauguages Working in: Javascript & Node.js</h4> 
+<h4>Lauguages Working in: Javascript (React) & Node.js</h4> 
 <h4>Personal Webiste: https://ben-lawrence-personalsite.netlify.app/</h4>  
 <hr/>
 <br />  
@@ -20,14 +20,14 @@
 
 <p><b>Back End:</b> <img src="https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red"> <img src="https://img.shields.io/badge/-Node-black?logo=Node.js&logoColor=lightgreen"></p>
 
-<p><b>Data bases</b> <img src="https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&logoColor=PaleTurquoise">  <img src="https://img.shields.io/badge/-Firebase-black?logo=Firebase&logoColor=Gold">  <img src="https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&logoColor=darkgreen"> <img src="https://img.shields.io/badge/-Moncha-black?logo=Mocha&logoColor=lightbrown"> <img src="https://img.shields.io/badge/-SQLite-black?logo=SQLite&logoColor=lightgrey"> </p>
+<p><b>Data bases:</b> <img src="https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&logoColor=PaleTurquoise">  <img src="https://img.shields.io/badge/-Firebase-black?logo=Firebase&logoColor=Gold">  <img src="https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&logoColor=darkgreen"> <img src="https://img.shields.io/badge/-Moncha-black?logo=Mocha&logoColor=lightbrown"> <img src="https://img.shields.io/badge/-SQLite-black?logo=SQLite&logoColor=lightgrey"> </p>
 
-<p><b>Testing</b> <img src="https://img.shields.io/badge/-Jasmine-black?logo=Jasmine&logoColor=purple"> <img src="https://img.shields.io/badge/-Jest-black?logo=Jest&logoColor=red"> </p>
+<p><b>Testing:</b> <img src="https://img.shields.io/badge/-Jasmine-black?logo=Jasmine&logoColor=purple"> <img src="https://img.shields.io/badge/-Jest-black?logo=Jest&logoColor=red"> </p>
 
 
-<p><b>MiddleWare</b> <img src="https://img.shields.io/badge/-Express-black?logo=Express&logoColor=white"> </p>
+<p><b>MiddleWare:</b> <img src="https://img.shields.io/badge/-Express-black?logo=Express&logoColor=white"> </p>
 
-<p><b>Frameworks</b> <img src="https://img.shields.io/badge/-RubyonRails-black?logo=RubyonRails&logoColor=red"> </p>
+<p><b>Frameworks:</b> <img src="https://img.shields.io/badge/-RubyonRails-black?logo=RubyonRails&logoColor=red"> </p>
 
 <br />   
 <hr/>
