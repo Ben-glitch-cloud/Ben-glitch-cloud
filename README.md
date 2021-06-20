@@ -27,7 +27,9 @@
 
 <p><b>MiddleWare:</b> <img src="https://img.shields.io/badge/-Express-black?logo=Express&logoColor=white"> </p>
 
-<p><b>Frameworks:</b> <img src="https://img.shields.io/badge/-RubyonRails-black?logo=RubyonRails&logoColor=red"> </p>
+<p><b>Frameworks:</b> <img src="https://img.shields.io/badge/-RubyonRails-black?logo=RubyonRails&logoColor=red"> </p> 
+
+<p><b>Hosting:</b> <img src="https://img.shields.io/badge/-Netlify-black?logo=Netlify&logoColor=lightblue"> </p>
 
 <br />   
 <hr/>
