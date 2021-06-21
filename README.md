@@ -16,14 +16,15 @@
 <hr/>
 <h4>Languages</h4> 
 
-<p> <b>Front End:</b>  <img src="https://img.shields.io/badge/-HTML-black?logo=HTML5&logoColor=orange">  <img src="https://img.shields.io/badge/-CSS-black?logo=CSS3&logoColor=blue"> <img src="https://img.shields.io/badge/-React-black?logo=React&logoColor=lightblue">  <img src="https://img.shields.io/badge/-ReactNative-black?logo=React&logoColor=green"> <img src="https://img.shields.io/badge/-jQuery-black?logo=jQuery&logoColor=lightblue"> <img src="https://img.shields.io/badge/-EJS-black?logo=Alpine.js&logoColor=green"> <img src="https://img.shields.io/badge/-Sass-black?logo=Sass&logoColor=pink"></p> 
+<p> <b>Front End:</b>  <img src="https://img.shields.io/badge/-HTML-black?logo=HTML5&logoColor=orange">  <img src="https://img.shields.io/badge/-CSS-black?logo=CSS3&logoColor=blue"> <img src="https://img.shields.io/badge/-React-black?logo=React&logoColor=lightblue">  <img src="https://img.shields.io/badge/-ReactNative-black?logo=React&logoColor=green"> <img src="https://img.shields.io/badge/-EJS-black?logo=Alpine.js&logoColor=green"> <img src="https://img.shields.io/badge/-Sass-black?logo=Sass&logoColor=pink"></p> 
 
 <p><b>Back End:</b> <img src="https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red"> <img src="https://img.shields.io/badge/-Node-black?logo=Node.js&logoColor=lightgreen"></p>
 
-<p><b>Data bases:</b> <img src="https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&logoColor=PaleTurquoise">  <img src="https://img.shields.io/badge/-Firebase-black?logo=Firebase&logoColor=Gold">  <img src="https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&logoColor=darkgreen"> <img src="https://img.shields.io/badge/-Moncha-black?logo=Mocha&logoColor=lightbrown"> <img src="https://img.shields.io/badge/-SQLite-black?logo=SQLite&logoColor=lightgrey"> </p>
+<p><b>Data bases:</b> <img src="https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&logoColor=PaleTurquoise">  <img src="https://img.shields.io/badge/-Firebase-black?logo=Firebase&logoColor=Gold"> <img src="https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&logoColor=darkgreen"> <img src="https://img.shields.io/badge/-SQLite-black?logo=SQLite&logoColor=lightgrey"> </p>
 
-<p><b>Testing:</b> <img src="https://img.shields.io/badge/-Jasmine-black?logo=Jasmine&logoColor=purple"> <img src="https://img.shields.io/badge/-Jest-black?logo=Jest&logoColor=red"> </p>
+<p><b>Testing:</b> <img src="https://img.shields.io/badge/-Jasmine-black?logo=Jasmine&logoColor=purple"> <img src="https://img.shields.io/badge/-Jest-black?logo=Jest&logoColor=red"> <img src="https://img.shields.io/badge/-Moncha-black?logo=Mocha&logoColor=lightbrown"> </p>
 
+<p><b>Javascript Libaraies:</b> <img src="https://img.shields.io/badge/-jQuery-black?logo=jQuery&logoColor=lightblue"> <img src="https://img.shields.io/badge/-Puppeteer-black?logo=puppeteer&logoColor=blue"> </p>
 
 <p><b>MiddleWare:</b> <img src="https://img.shields.io/badge/-Express-black?logo=Express&logoColor=white"> </p>
 
