@@ -16,7 +16,7 @@
 <hr/>
 <h4>Languages</h4> 
 
-<p> <b>Front End:</b>  <img src="https://img.shields.io/badge/-HTML-black?logo=HTML5&logoColor=orange">  <img src="https://img.shields.io/badge/-CSS-black?logo=CSS3&logoColor=blue"> <img src="https://img.shields.io/badge/-React-black?logo=React&logoColor=lightblue">  <img src="https://img.shields.io/badge/-ReactNative-black?logo=React&logoColor=green"> <img src="https://img.shields.io/badge/-EJS-black?logo=Alpine.js&logoColor=green"> <img src="https://img.shields.io/badge/-Sass-black?logo=Sass&logoColor=pink"></p> 
+<p> <b>Front End:</b>  <img src="https://img.shields.io/badge/-HTML-black?logo=HTML5&logoColor=orange">  <img src="https://img.shields.io/badge/-CSS-black?logo=CSS3&logoColor=blue"> <img src="https://img.shields.io/badge/-Javascript-black?logo=Javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/-React-black?logo=React&logoColor=lightblue">  <img src="https://img.shields.io/badge/-ReactNative-black?logo=React&logoColor=green"> <img src="https://img.shields.io/badge/-EJS-black?logo=Alpine.js&logoColor=green"> <img src="https://img.shields.io/badge/-Sass-black?logo=Sass&logoColor=pink"></p> 
 
 <p><b>Back End:</b> <img src="https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red"> <img src="https://img.shields.io/badge/-Node-black?logo=Node.js&logoColor=lightgreen"></p>
 
