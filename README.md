@@ -4,10 +4,10 @@
 <br />
 <br />  
 <hr/>
-<h4>Hello im Benedict</h4>  
-<h4 align="left">A small bit about me: I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</h4>    
-<h4>Lauguages Working in: Javascript (React) & Node.js</h4> 
-<h4>Personal Webiste: https://ben-lawrence-personalsite.netlify.app/</h4>  
+<h3>Hello, i'm Benedict <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>   
+<p align="left"><b>A small bit about me:</b> I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</p>     
+<p><b>Lauguages Working in:</b> Javascript (React) & Node.js</p> 
+<p><b>Personal Webiste:</b> https://ben-lawrence-personalsite.netlify.app/</p>  
 <hr/>
 <br />  
 <br /> 
