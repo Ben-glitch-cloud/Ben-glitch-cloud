@@ -7,7 +7,8 @@
 <h3>Hello, i'm Benedict <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>   
 <p align="left"><b>A small bit about me:</b> I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</p>     
 <p><b>Lauguages Working in:</b> Javascript (React) & Node.js</p> 
-<p><b>Personal Webiste:</b> https://ben-lawrence-personalsite.netlify.app/</p>  
+<p><b>Personal Webiste:</b> <a href="https://ben-lawrence-personalsite.netlify.app/">Click Hear</a></p>   
+<p><b>Github CV:</b> <a href="https://github.com/Ben-glitch-cloud/CV">Click Hear</a></p>
 <hr/>
 <br />  
 <br /> 
