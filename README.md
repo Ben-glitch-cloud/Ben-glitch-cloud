@@ -6,7 +6,7 @@
 <hr/>
 <h3>Hello, i'm Benedict <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>   
 <p align="left"><b>A small bit about me:</b> I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</p>     
-<p><b>Lauguages Working in:</b> Javascript (React) & Node.js</p> 
+<p><b>Lauguages Working in:</b> <img src="https://img.shields.io/badge/-Javascript-black?logo=Javascript&logoColor=yellow"> & <img src="https://img.shields.io/badge/-C Sharp-black?logo=CSharp&logoColor=limegreen"></p> 
 <p><b>Personal Webiste:</b> <a href="https://ben-lawrence-personalsite.netlify.app/">Click Hear</a></p>   
 <p><b>Github CV:</b> <a href="https://github.com/Ben-glitch-cloud/CV">Click Hear</a></p>
 <hr/>
@@ -19,7 +19,7 @@
 
 <p> <b>Front End:</b>  <img src="https://img.shields.io/badge/-HTML-black?logo=HTML5&logoColor=orange">  <img src="https://img.shields.io/badge/-CSS-black?logo=CSS3&logoColor=blue"> <img src="https://img.shields.io/badge/-Javascript-black?logo=Javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/-React-black?logo=React&logoColor=lightblue">  <img src="https://img.shields.io/badge/-ReactNative-black?logo=React&logoColor=green"> <img src="https://img.shields.io/badge/-EJS-black?logo=Alpine.js&logoColor=green"> <img src="https://img.shields.io/badge/-Sass-black?logo=Sass&logoColor=pink"></p> 
 
-<p><b>Back End:</b> <img src="https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red"> <img src="https://img.shields.io/badge/-Node-black?logo=Node.js&logoColor=lightgreen"></p>
+<p><b>Back End:</b> <img src="https://img.shields.io/badge/-Ruby-black?logo=Ruby&logoColor=red"> <img src="https://img.shields.io/badge/-Node-black?logo=Node.js&logoColor=lightgreen"> <img src="https://img.shields.io/badge/-C Sharp-black?logo=CSharp&logoColor=limegreen"> </p>
 
 <p><b>Data bases:</b> <img src="https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&logoColor=PaleTurquoise">  <img src="https://img.shields.io/badge/-Firebase-black?logo=Firebase&logoColor=Gold"> <img src="https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&logoColor=darkgreen"> <img src="https://img.shields.io/badge/-SQLite-black?logo=SQLite&logoColor=lightgrey"> </p>
 
