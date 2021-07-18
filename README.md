@@ -6,7 +6,8 @@
 <hr/>
 <h3>Hello, i'm Benedict <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>   
 <p align="left"><b>A small bit about me:</b> I love the challenge of coding, solving problems and applying new processes to create clean solutions. I'm currently studying at Makers, with a view to becoming a junior software engineer.</p>     
-<p><b>Lauguages Working in:</b> <img src="https://img.shields.io/badge/-Javascript-black?logo=Javascript&logoColor=yellow"> & <img src="https://img.shields.io/badge/-C Sharp-black?logo=CSharp&logoColor=limegreen"></p> 
+<p><b>Lauguages i'm working in:</b> <img src="https://img.shields.io/badge/-Javascript-black?logo=Javascript&logoColor=yellow"> & <img src="https://img.shields.io/badge/-C Sharp-black?logo=CSharp&logoColor=limegreen"></p>  
+<p><b>Frameworks i'm working in: <img src="https://img.shields.io/badge/-Angular-black?logo=Angular&logoColor=darkred"> & <img src="https://img.shields.io/badge/-Bootstrap-black?logo=Bootstrap&logoColor=purple"> </b></p>
 <p><b>Personal Webiste:</b> <a href="https://ben-lawrence-personalsite.netlify.app/">Click Hear</a></p>   
 <p><b>Github CV:</b> <a href="https://github.com/Ben-glitch-cloud/CV">Click Hear</a></p>
 <hr/>
@@ -29,7 +30,7 @@
 
 <p><b>MiddleWare:</b> <img src="https://img.shields.io/badge/-Express-black?logo=Express&logoColor=white"> </p>
 
-<p><b>Frameworks:</b> <img src="https://img.shields.io/badge/-RubyonRails-black?logo=RubyonRails&logoColor=red"> <img src="https://img.shields.io/badge/-.NET-black?logo=.NET&logoColor=darkcyan"> </p> 
+<p><b>Frameworks:</b> <img src="https://img.shields.io/badge/-RubyonRails-black?logo=RubyonRails&logoColor=red"> <img src="https://img.shields.io/badge/-.NET-black?logo=.NET&logoColor=darkcyan"> <img src="https://img.shields.io/badge/-Angular-black?logo=Angular&logoColor=darkred"> <img src="https://img.shields.io/badge/-Bootstrap-black?logo=Bootstrap&logoColor=purple"> </p> 
 
 <p><b>Hosting:</b> <img src="https://img.shields.io/badge/-Netlify-black?logo=Netlify&logoColor=lightblue"> </p>
 
